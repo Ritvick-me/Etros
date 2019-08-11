@@ -273,7 +273,7 @@
     background-image: url('Photos/Gallery/e1.JPG');
     background-position: -40vw;
     background-size: cover;
-    height:105vh;
+    height:110vh;
     max-width: 100vw;
     transition-duration: 1s;
 }
