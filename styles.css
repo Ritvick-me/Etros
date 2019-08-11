@@ -1,0 +1,739 @@
+#sp1 blockquote{
+    font-size: 150%;
+    color:  white;
+}
+
+#sp4 blockquote{
+    font-size: 100%;
+    color:  white;
+}
+
+#sp2 blockquote, #sp3 blockquote{
+    font-size: 140%;
+    color:  white;
+}
+
+#etros-id blockquote{
+    font-size: 400%;
+    font-family: 'Oswald', sans-serif;
+    color: rgb(255, 72, 0);
+    font-weight: 999;
+    text-shadow: 4px 4px 3px black;
+    padding: 30px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+
+.about-cards{
+    max-width: 100%;
+    height: 300px;
+}
+
+.about-content{
+    width: 60vw;
+    color: white;
+}
+.achieve-head{
+    font-size:250%;
+    color: rgb(255, 72, 0);
+    font-family: 'Teko', sans-serif;
+}
+
+.achieve-sub{
+    color: gray;
+    font-size:170%;
+    font-family: 'Teko', sans-serif;
+}
+
+.achieve-bound{
+    border-bottom-style: solid;
+    border-bottom-color: white;
+    border-bottom-width: 0.2mm;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.achieve-word{
+    color: white;
+    font-size:120%;
+    font-family: 'Cairo', sans-serif;
+}
+
+.achieve-img{
+    width: 400px;
+    max-width: 100%;
+    height: 250px;
+}
+
+.tip{
+    position: absolute;
+    top: 0px;
+    width: 90%;
+    margin-left: 10px;
+}
+
+#sp1 a, #sp2 a, #sp3 a, #sp4 a{
+    color: rgb(255, 72, 0);
+    text-decoration: none;
+}
+
+.bg-img{
+    background-image: url('Photos/Gallery/g4.JPG');
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+
+.displayed{
+    background-image: linear-gradient(to right, black, black);
+    opacity: 0.7;
+    height: 100%;
+}
+
+.etros-low{
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    font-size: 600%;
+    font-weight: 999;
+    text-shadow: 10px 10px black;
+    padding: 20px;
+    padding-top: 50px;
+    text-transform: uppercase;
+}
+
+.etros-low2{
+    color: rgb(255, 72, 0);
+    font-family: 'Oswald', sans-serif;
+    margin-left: 10%;
+    font-size: 400%;
+    font-weight: 999;
+    text-shadow: 10px 10px black;
+    padding: 20px;
+    padding-top: 50px;
+    margin-bottom: 80px;
+    text-transform: uppercase;
+}
+
+.etros-move{
+    padding-left: 40px;
+    transition-duration: 1s;
+}
+
+.etros-move-back{
+    padding-left: 0px;
+    transition-duration: 1s;
+}
+
+.filler{
+    margin: 10px;
+    margin-top: 10px;
+    fill: rgb(255, 72, 0);
+    width: 30px;
+}
+
+.filler2{
+    margin: 10px;
+    margin-top: 10px;
+    fill: white;
+    width: 30px;
+}
+
+.filler3{
+    margin: 10px;
+    margin-top: 10px;
+    fill: rgb(255, 72, 0);
+    width: 20px;
+}
+
+.filler:hover{
+    fill: white;
+}
+
+.filler2:hover{
+    fill: rgb(255, 72, 0);
+}
+
+.filler3:hover{
+    fill: white;
+}
+
+.footer-bg{
+    background-image: url("Photos/bg-foot.jpg");
+}
+
+.foot-head{
+    color: rgb(255, 72, 0);
+    font-size: 150%;
+    padding: 30px;
+    font-family: 'Open sans', sans-serif;
+}
+
+.foot-content{
+    color: white;
+    font-size: 120%;
+    padding-top: 20px;
+    text-transform: uppercase;
+}
+
+.footer-mail{
+    color: rgb(255, 72, 0);
+    font-size: 80%;
+    font-weight: normal;
+}
+.footer-mail:hover{
+    text-decoration: none;
+    color: white;
+}
+
+.footer-mail2{
+    color: white;
+    font-size: 80%;
+    font-weight: normal;
+    /* text-transform: uppercase; */
+}
+
+.footer-mail2:hover{
+    text-decoration: none;
+    color: rgb(255, 72, 0);
+}
+
+.hidden{
+    display: none;
+}
+
+.heading{
+    color: white;
+    padding-top: 15vh;
+    font-size: 500%;
+    font-weight: 999;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    text-shadow: black 0px 0px 10px;
+}
+
+.head-block{
+    color: white;
+    margin-top: 35vh;
+    font-size: 200%;
+    text-shadow: black 2px 2px;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+
+.head1{
+    font-family: 'Open sans', sans-serif;
+    font-size: 350%;
+    color: rgb(255, 72, 0);
+    text-shadow: 2px 2px black;
+    margin-top: 3vh;
+    padding-left: 2%;
+    padding-top: 2%;
+}
+
+.head1-mb{
+    font-family: 'Open sans', sans-serif;
+    font-size: 150%;
+    color: rgb(255, 72, 0);
+    text-shadow: 2px 2px black;
+    margin-top: 3vh;
+    padding-left: 2%;
+    padding-top: 2%;
+}
+
+.head2{
+    font-family: 'Open sans', sans-serif;
+    font-size: 150%;
+    color: rgb(255, 72, 0);
+    text-shadow: 2px 2px black;
+    margin-top: 3vh;
+    padding-left: 2%;
+    padding-top: 2%;
+}
+
+.home-cards{
+    background-image: url('Photos/Gallery/e1.JPG');
+    background-position: -10vw;
+    background-size: cover;
+    height:100vh;
+    max-width: 100%;
+    transition-duration: 1s;
+}
+
+.home-cards1{
+    background-image: url('Photos/Gallery/e1.JPG');
+    background-position: -40vw;
+    background-size: cover;
+    height:100vh;
+    max-width: 100%;
+    transition-duration: 1s;
+}
+
+.home-top{
+    background-image: url('Photos/Gallery/solareon.JPG');
+    background-position: 0vw -10vh;
+    background-size: cover;
+    height:60vh;
+    max-width: 100%;
+    transition-duration: 1s;
+}
+
+.home-top:hover{
+    background-position: 0vw -20vh;
+    transition-duration: 1s;
+}
+
+.home-cards2{
+    background-image: url('Photos/Gallery/g2.jpg');
+    background-position: 0vw;
+    background-size: cover;
+    height:50vh;
+    width: 100%;
+    transition-duration: 1s;
+}
+
+.home-cards2-mb{
+    background-image: url('Photos/Gallery/g2.jpg');
+    background-position: center;
+    background-size: cover;
+    height:100vh;
+    width: 100%;
+    transition-duration: 1s;
+}
+
+.home-cards3{
+    background-image: url('Photos/Gallery/e2.jpg');
+    background-position: -2vw;
+    background-size: cover;
+    height:50vh;
+    width: 100%;
+    transition-duration: 1s;
+}
+
+.home-cards3-mb{
+    background-image: url('Photos/Gallery/e2.jpg');
+    background-position: center;
+    background-size: cover;
+    height:100vh;
+    width: 100%;
+    transition-duration: 1s;
+}
+
+.home-cards4{
+    background-image: url('Photos/Gallery/g6.JPG');
+    background-position: 0vw;
+    background-size: cover;
+    height:50vh;
+    max-width: 100%;
+    transition-duration: 1s;
+}
+
+.home-cards4-mb{
+    background-image: url('Photos/Gallery/g1.jpg');
+    background-position: center;
+    background-size: cover;
+    height:100vh;
+    max-width: 100%;
+    transition-duration: 1s;
+}
+
+.home-cards:hover{
+    background-position: -20vw;
+    transition-duration: 1s;
+}
+
+.home-cards1:hover{
+    background-position: -60vw;
+    transition-duration: 1s;
+}
+
+.home-cards2:hover{
+    background-position: -10vw;
+    transition-duration: 1s;
+}
+
+.home-cards2-mb:hover{
+    background-position: 5px;
+    transition-duration: 1s;
+}
+
+.home-cards3:hover{
+    background-position: -5vw;
+    transition-duration: 1s;
+}
+
+.home-cards3-mb:hover{
+    background-position: -1vw;
+    transition-duration: 1s;
+}
+
+.home-cards4:hover{
+    background-position: -5vw;
+    transition-duration: 1s;
+}
+
+.home-cards4-mb:hover{
+    background-position: -20vw;
+    background-size: cover;
+    transition-duration: 1s;
+}
+
+.home-cards5{
+    background-image: url('Photos/Gallery/e3.JPG');
+    background-position: 0vw -10vh;
+    background-size: cover;
+    height: 60vh;
+    max-width: 100%;
+    transition-duration: 1s;
+}
+
+.home-cards5:hover{
+    background-position: 0vw -15vh;
+    transition-duration: 1s;
+}
+
+.nav-activated{
+    border-bottom-color: rgb(255, 72, 0);
+    border-bottom-style: solid;
+    color: rgb(255, 72, 0) !important;
+    padding-bottom: 12px !important;
+}
+
+.nav-design{
+    background-color: black !important;
+    opacity:0.7;
+}
+
+.nav-design.scrolled{
+    opacity: 1;
+    transition-duration: 0.5s;
+}
+
+.nav-design ul li{
+    float: left;
+    list-style-type: none;
+    font-size: 125%;
+    margin-top:10px;
+    
+}
+
+.nav-design div ul li a{
+    color:rgb(255, 255, 255);
+    padding-left:10px;
+    padding-right: 10px; 
+    text-decoration: none;
+    padding-top:10px;
+    padding-bottom: 15px; 
+    margin-top:-20px;
+    margin-bottom: -8px;
+    
+}
+
+.nav-design div ul li a:hover{
+    border-bottom-color: rgb(255, 72, 0);
+    border-bottom-style: solid;
+    color: rgb(255, 72, 0) !important;
+    padding-bottom: 12px;
+    transition-duration: 0.2s;
+}
+
+.nav-design img{
+    margin-top:-16px;
+    height:50px;
+    float:right;
+}
+
+.navlogo{
+    padding-top: 5px;
+    margin-bottom: -10px;
+    width: 40px;
+    height: 0px;
+}
+
+.para-mb{
+    font-size: 120%;
+    color:  white;
+    padding-right: 10px;
+    text-align: justify;
+}
+
+.ring:hover{
+    text-decoration: none;
+}
+
+.ritvick-link{
+    color: rgb(255, 72, 0);
+    font-size: 15px;
+    transition-duration: 0.5s;
+}
+
+.ritvick-link:hover{
+    text-decoration: none;
+    color: white;
+    transition-duration: 0.5s;
+}
+
+.ritvick-gallery{
+    width: 100%;
+    height: 100%;
+    border-style: solid;
+    border-width: 10px;
+    border-radius: 50%;
+    background-color: white;
+}
+
+.ritvick-gallery2{
+    width: 100%;
+    border-radius: 50%;
+}
+
+.ritvick-gallery2:hover{
+    opacity: 0.5;
+    transition-duration: 0.5s;
+}
+
+.ritvick-h2{
+    color: white;
+    font-size: 250%;
+    transition-duration: 0.5s;
+}
+
+.ritvick-h2:hover{
+    color: rgb(255, 72, 0);
+    transition-duration: 0.5s;
+}
+
+.ritvick-h3{
+    color: grey;
+    text-transform: uppercase;
+    font-size: 150%;
+    transition-duration: 0.5s;
+}
+
+.ritvick-h3:hover{
+    color: white;
+    transition-duration: 0.5s;
+
+}
+
+.ritvick-h4{
+    color: rgb(255, 72, 0);
+    font-size: 150%;
+    transition-duration: 0.5s;
+}
+
+.ritvick-h4:hover{
+    color: white;
+    transition-duration: 0.5s;
+}
+
+.ritvick-span{
+    color: grey;
+    transition-duration: 0.5s;
+}
+
+.ritvick-span:hover{
+    color: white;
+    transition-duration: 0.5s;
+}
+
+.unavailable{
+    background-image: url('Photos/second.jpg');
+    background-size: cover;
+    background-position: right;
+    height: 100vh;
+}
+
+.unavailable-col{
+    text-align: center;
+}
+
+.unavailable-heading{
+    color: black;
+    font-family: 'Bree Serif', serif;
+    font-size: 300%;
+}
+
+.unavailable-para{
+    color: white;
+    font-family: 'Bree Serif', serif;
+    font-size: 200%;
+}
+
+@media (max-width:750px){
+    .about-content{
+        width: 90vw;
+        color: white;
+    }
+    .filler{
+        width: 20px;
+    }
+    .filler2{
+        width: 20px;
+    }
+    .filler3{
+        width: 25px;
+    }
+    .nav-design{
+        background-image: linear-gradient(to right, transparent, transparent);   
+        opacity:0.7;
+    }
+    .bg-light{
+        background-color: transparent !important;
+    }
+    .displayed{
+        margin-left:-4vw;
+        width: 100vw;
+    }
+    .nav-design div ul li a{
+        color:rgb(255, 255, 255);
+        padding-left:0px;
+        padding-right: 0px; 
+        text-decoration: none;
+        padding-top:0px;
+        padding-bottom: 0px; 
+        margin-top:0px;
+        margin-bottom: px;
+        
+    }
+    .nav-design div ul{
+        background-image: linear-gradient(to right, black, black);
+        padding-left:10px;
+        padding-bottom:20px;
+        width: 60vw;
+    }
+    .heading{
+        font-size: 300%;
+        text-shadow: black 0px 0px 10px;
+    }
+    .home-cards{
+        min-width:100%;
+    }
+    .home-top{
+        background-position: -10vw 0vh;
+        min-width:100%;
+    }
+    .home-top:hover{
+        background-position: -20vw 0vh;
+    }
+    .unavailable-heading{
+        color: white;
+        font-size: 200%;
+    }
+    .unavailable-para{
+        color: silver;
+        font-size: 180%;
+    }
+}
+
+@media (max-width:1250px){
+    .footer-mail2{
+        font-size: 60%;
+    }
+    .head1{
+        font-size: 150%;
+    }
+    .head2{
+        font-size: 100%;
+        margin-top: 10px;
+    }
+    #sp1 blockquote{
+        font-size: 120%;
+    }
+    #sp2 blockquote, #sp3 blockquote{
+        font-size: 70%;
+        color:  white;
+        padding-right:10%;
+    }
+    .home-cards5{
+        background-position: 0vw 0vh;
+        min-width: 100%;
+    }
+    .home-cards5:hover{
+        background-position: 0vw -3vh;
+    }
+    .etros-low{
+        font-size: 200%;
+        text-shadow: 2px 2px black;
+        letter-spacing: 3px;
+        color: rgb(255, 72, 0);
+    }
+    .etros-low2{
+        font-size: 220%;
+        text-shadow: 2px 2px black;
+        margin-bottom: 30px;
+        letter-spacing: 3px;
+        margin-left: 0px;
+        color: rgb(255, 72, 0);
+    }
+    #etros-id blockquote{
+        font-size: 170%;
+        text-shadow: 4px 4px 3px black;
+        padding: 0px;
+        padding-top: 15px;
+        padding-left: 20px;
+        color: white;
+    }
+}
+
+@media (max-width:830px){
+    .home-cards5{
+        background-position: 0vw 0vh;
+        background-size: cover;
+    }
+    .home-cards5:hover{
+        background-position: -10vw 0vh;
+    }
+    .etros-move{
+        padding: 0px;
+        padding-top: 20px;
+        transition-duration: 1s;
+    }
+    
+    .etros-move-back{
+        padding: 0px;
+        padding-top: 0px;
+        transition-duration: 1s;
+    }
+    .head-block{
+        margin-top: 100px;
+    }
+    .bg-img{
+        background-position: -40vw;
+        transition-duration: 1s;
+    }
+    .bg-img2{
+        background-position: -80vw;
+        transition-duration: 1s;
+    }
+    .bleh{
+        padding-top: 0vh;
+        transition-duration: 1s;
+    }
+    .hover-move{
+        padding-top: 10vh;
+        transition-duration: 1s;
+    }
+    
+}
+
+@media(max-width:600px)
+{
+    .ritvick-h2{
+        font-size: 150%;
+    }
+    .ritvick-h3{
+        font-size: 90%;
+    }
+    .ritvick-h4{
+        font-size: 90%;
+    }
+}
+
+
+
+
+
+
+
+
