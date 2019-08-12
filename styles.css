@@ -213,7 +213,7 @@
 
 .head-block{
     color: white;
-    margin-top: 35vh;
+    margin-top: 15vh;
     font-size: 200%;
     text-shadow: black 2px 2px;
     font-family: 'Oswald', sans-serif;
@@ -459,6 +459,15 @@
     height: 0px;
 }
 
+.navlogo2{
+    padding-top: 20px;
+    width: 100px;
+    margin-left: 80px;
+}
+
+.navlogo3{
+}
+
 .para-mb{
     font-size: 110%;
     color:  white;
@@ -484,7 +493,6 @@
 
 .ritvick-gallery{
     width: 100%;
-    height: ;
     border-style: solid;
     border-width: 10px;
     border-radius: 50%;
@@ -721,7 +729,7 @@
         transition-duration: 1s;
     }
     .hover-move{
-        padding-top: 10vh;
+        padding-top: 3vh;
         transition-duration: 1s;
     }
     
