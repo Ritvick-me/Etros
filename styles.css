@@ -1,15 +1,15 @@
 #sp1 blockquote{
-    font-size: 150%;
+    font-size: 2vh;
     color:  white;
 }
 
 #sp4 blockquote{
-    font-size: 100%;
+    font-size: 2vh;
     color:  white;
 }
 
 #sp2 blockquote, #sp3 blockquote{
-    font-size: 140%;
+    font-size: 2vh;
     color:  white;
 }
 
@@ -463,9 +463,6 @@
     padding-top: 20px;
     width: 100px;
     margin-left: 80px;
-}
-
-.navlogo3{
 }
 
 .para-mb{
